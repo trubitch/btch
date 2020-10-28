@@ -1,1 +1,1 @@
-alert("Asd");
+shutup;
