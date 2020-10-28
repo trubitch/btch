@@ -1,1 +1,1 @@
-shutup;
+console.log("shutup");
